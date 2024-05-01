@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-image: url(img/1275722.jpg);
+}
+nav{
+    background-color: #333;
+}
+.navbar{
+    overflow: hidden;
+    padding: 10px;
+}
+.navbar a{
+    float: right;
+    display: flex;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: #ddd;
+}
+.navbar a:zctive{
+    background-color: #555;
+}
+.logo{
+    float: left;
+    margin-right: 20px;
+    height: 40px;
+}
+.container{
+    max-width: 800px;
+    padding-bottom: 100%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+}
